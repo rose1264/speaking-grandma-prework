@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-words = gets.chomp
+#  words = gets.chomp
 
 def speak_to_grandma(words)
 
@@ -10,6 +10,7 @@ def speak_to_grandma(words)
   else
     puts "HUH?! SPEAK UP, SONNY!"
   end
+
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
